@@ -179,6 +179,9 @@ Using brute-force Cosine Similarity as the **ground truth**:
  
     <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1954dd46-ce4e-44d4-aa24-33509218e154" />
 
+    <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/d3646b22-02c2-4850-bcee-f6863b3dd2ad" />
+
+
 
 **Trade-off:**
 
